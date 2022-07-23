@@ -1,0 +1,125 @@
+.left{
+    width: 50%;
+    height: 691px;
+    float: left;
+}
+.right{
+    width: 50%;
+    height: 691px;
+    float: right;
+    
+}
+body{
+    margin: 0;
+}
+.logo {
+    height: 131px;
+    width: 265px;
+    position: relative;left: 265px;top: 169px;
+    margin: 0 auto;
+} 
+.para{
+    margin: 0 auto;
+    font-family:  SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    position: relative;left: 271px;top: 140px;
+   padding-top: 0px;
+}
+.box{
+    width: 385px;
+    height: 352px;
+    position: relative;left: 89px;top: 127px;
+    border-radius: 16px;
+    box-shadow:0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+.em{
+    height: 32px;
+    width: 351px;
+    border-radius: 4px;
+    border-color: aliceblue;
+    padding-top: 10px;
+    font-family: Helvetica, Arial, sans-serif;;
+}
+.fo{
+    position: relative;left: 12px;top: 20px;
+
+}
+.ps{
+    height: 32px;
+    width: 351px;
+    border-radius: 4px;
+    border-color: aliceblue;
+    padding-top: 10px;
+    font-family: Helvetica, Arial, sans-serif;;
+    cursor: pointer;
+}
+.fop{
+    height: 48px;
+    width: 351px;
+    border-radius: 4px;
+    border-color: aliceblue;
+    padding-top: 10px;
+    position: relative;left: 11px;top: 27px;
+}
+.but{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    width: 357px;
+    height: 48px;
+    font-family: Helvetica, Arial, sans-serif;
+    cursor: pointer;
+}
+.bu{
+    position: relative;left: 13px;top: 45px;
+}
+.forgot{
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #1877f2;
+    position: relative;left: 112px;top: 71px
+}
+.line{
+    height: 1px;
+    width: 90%;
+    background: #385898;
+    position: relative;left: 16px;top: 96px
+}
+.cret{
+    background-color: #16e234;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+    width: 179px;
+    height: 48px;
+    font-family: Helvetica, Arial, sans-serif;
+    cursor: pointer;
+}
+.cret:hover{
+    background-color: #2cae40;
+}
+.cr{
+    position: relative;left: 88px;top: 112px;
+}
+.cel{
+    font-size: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    position: relative;left: 877px;top: -185px
+}
+.last{
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    position: relative;left: 958px;top: -197px
+}
